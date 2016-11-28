@@ -9,6 +9,8 @@ This Bash-Script will
 It was some work to get the login done right, maybe someone finds this useful.
 
 You can find it on [Github](https://github.com/nextl00p/backuptrac)
+## Warning
+Run the script on trac with an unprivileged user, so wget does not delete or alter pages!
 
 ##License GNU GPL 3
 see [LICENSE.md](LICENSE.md)
